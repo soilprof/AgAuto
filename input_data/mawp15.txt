@@ -1,0 +1,2 @@
+DateTime,StnID,Temp,RH,Rain,AvgWS,AvgWD
+

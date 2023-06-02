@@ -1,0 +1,96 @@
+YQD:
+  mbag_id: 45
+  desc: THE PAS
+  alternative_id: PQD
+WEQ:
+  mbag_id: 44
+  desc: SWAN RIVER
+  alternative_id: NONE
+WXB:
+  mbag_id: 38
+  desc: ROBLIN MCDC
+  alternative_id: NONE
+YDN:
+  mbag_id: 9
+  desc: DAUPHIN ARPT
+  alternative_id: WZT
+WUT:
+  mbag_id: 40
+  desc: SHOAL LAKE ARPT
+  alternative_id: NONE
+YBR:
+  mbag_id: 2
+  desc: BRANDON ARPT
+  alternative_id: PBO
+WZE:
+  mbag_id: 4
+  desc: CARBERRY MCDC
+  alternative_id: NONE
+WEI:
+  mbag_id: 26
+  desc: MELITA
+  alternative_id: NONE
+WPO:
+  mbag_id: 34
+  desc: PILOT MOUND
+  alternative_id: NONE
+YPG:
+  mbag_id: 37
+  desc: PORTAGE LA PRAIRIE
+  alternative_id: WPG
+WSZ:
+  mbag_id: 56
+  desc: FISHER BRANCH
+  alternative_id: NONE
+YGM:
+  mbag_id: 14
+  desc: GIMLI CLIMATE
+  alternative_id: PGH
+YWG:
+  mbag_id: 52
+  desc: WINNIPEG/RICHARDSON ARPT
+  alternative_id: XWG
+WNK:
+  mbag_id: 5
+  desc: CARMAN U OF M CS
+  alternative_id: NONE
+XDW:
+  mbag_id: 55
+  desc: DEERWOOD RCS
+  alternative_id: NONE
+XMD:
+  mbag_id: 29
+  desc: MORDEN CDA CS
+  alternative_id: NONE
+WGN:
+  mbag_id: 17
+  desc: GRETNA
+  alternative_id: NONE
+WEX:
+  mbag_id: 11
+  desc: EMERSON
+  alternative_id: NONE
+WEA:
+  mbag_id: 35
+  desc: PINAWA
+  alternative_id: NONE
+WSU:
+  mbag_id: 41
+  desc: SPRAGUE
+  alternative_id: NONE
+WOO:
+  mbag_id: 25
+  desc: MCCREARY
+  alternative_id: NONE
+WWP:
+  mbag_id: 51
+  desc: WASAGAMING
+  alternative_id: NONE
+POY:
+  mbag_id: 8
+  desc: CYPRESS RIVER
+  alternative_id: NONE
+PTG:
+  mbag_id: 22
+  desc: KLEEFELD
+  alternative_id: NONE

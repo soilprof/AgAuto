@@ -1,0 +1,4 @@
+values = (5, 3, 6)
+x, y, z = values
+print(x)
+

@@ -1,0 +1,7 @@
+station_name, Station Name, 0
+transport_canada_id, TC ID, 1
+air_temperature_yesterday_high, Max Temperature, 2
+air_temperature_yesterday_low, Min Temperature, 3
+rain_amount, Rain Amount, 4
+snow_amount, Snow Amount, 5
+total_precipitation, Total Precipitation, 6

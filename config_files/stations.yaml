@@ -1,0 +1,95 @@
+PQD:
+  mbag_id: 45
+  desc: THEPAS
+
+WEQ:
+  mbag_id: 44
+  desc: SWANRIVER
+
+WXB:
+  mbag_id: 38
+  desc: ROBLIN
+
+WZT:
+  mbag_id: 9
+  desc: DAUPHIN
+
+WUT:
+  mbag_id: 40
+  desc: SHOALLAKE
+
+PBO:
+  mbag_id: 2
+  desc: BRANDON
+
+WZE:
+  mbag_id: 4
+  desc: CARBERRY
+
+WEI:
+  mbag_id: 26
+  desc: MELITA
+
+WPO:
+  mbag_id: 34
+  desc: PILOTMOUND
+
+WPG:
+  mbag_id: 37
+  desc: PORTAGESOUTHPORT
+
+WSZ:
+  mbag_id: 56
+  desc: FISHERBRANCH
+
+PGH:
+  mbag_id: 14
+  desc: GIMLI
+
+XWG:
+  mbag_id: 52
+  desc: WINNIPEG
+
+WNK:
+  mbag_id: 5
+  desc: CARMAN
+
+XDW:
+  mbag_id: 55
+  desc: DEERWOOD
+
+XMD:
+  mbag_id: 29
+  desc: MORDEN
+
+WGN:
+  mbag_id: 17
+  desc: GRETNA
+
+WEX:
+  mbag_id: 11
+  desc: EMERSON
+
+WEA:
+  mbag_id: 35
+  desc: PINAWA
+
+WSU:
+  mbag_id: 41
+  desc: SPRAGUE
+
+WOO:
+  mbag_id: 25
+  desc: MCCREARY
+
+WWP:
+  mbag_id: 51
+  desc: WASAGAMING
+
+POY:
+  mbag_id: 8
+  desc: CYPRESSRIVER
+
+PTG:
+  mbag_id: 22
+  desc: KLEEFELD

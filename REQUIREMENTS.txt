@@ -1,0 +1,6 @@
+beautifulsoup4==4.7.1
+pyyaml
+requests==2.21.0
+pyfiglet==0.8.post1
+tqdm==4.31.1
+
